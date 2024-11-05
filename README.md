@@ -5,13 +5,14 @@
 
 localhost:9870/explorer.html#/ adresine gidin:
 
+
 input_dir adında bir dosya oluşturuyoruz:
 
 ```bash
 hadoop fs -mkdir /input_dir
 ```
 
-document klasörü içindeki txt dosyalarını(datastimiz) input_dir'in içine atıyoruz:
+document klasörü içindeki txt dosyalarını(datasetimiz) input_dir'in içine atıyoruz:
 
 ```bash
 hadoop fs -put C:/Users/ASUS/Desktop/document/* /input_dir
