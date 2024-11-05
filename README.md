@@ -11,7 +11,7 @@ input_dir adında bir dosya oluşturuyoruz:
 hadoop fs -mkdir /input_dir
 ```
 
-dataset'imizin içindeki txt dosyalarını input_dir'in içine atıyoruz:
+document klasörü içindeki txt dosyalarını(datastimiz) input_dir'in içine atıyoruz:
 
 ```bash
 hadoop fs -put C:/Users/ASUS/Desktop/document/* /input_dir
