@@ -17,7 +17,7 @@ dataset'imizin içindeki txt dosyalarını input_dir'in içine atıyoruz:
 hadoop fs -put C:/Users/ASUS/Desktop/document/* /input_dir
 ```
 
-projenin bulunduğu dizine gidiyoruz:
+projenin bulunduğu dizine gidiyoruz (kendi yolunuzu girin bendeki bu şekilde):
 
 ```bash
 cd C:\Users\ASUS\Desktop\Klasorler\Projeler\JavaProjeleri\wordCount
