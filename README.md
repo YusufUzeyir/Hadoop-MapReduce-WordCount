@@ -3,7 +3,7 @@
 
 ### Run Locally
 
-localhost:9870/explorer.html#/ adresine gidin:<br>
+localhost:9870/explorer.html#/ adresine gidin:
 
 
 input_dir adında bir dosya oluşturuyoruz:
